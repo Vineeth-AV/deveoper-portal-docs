@@ -24,7 +24,7 @@ possible.
 {% /grid %}
 '
 
-{% card
+{% 
    <details><summary>Does not work</summary>
 [hi](https://hello.ca)
 </details>
@@ -36,5 +36,5 @@ possible.
 
 </details>
 
-{% /grid %}
+}
 
