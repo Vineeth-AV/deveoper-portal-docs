@@ -7,6 +7,16 @@ showReadingTime: false
 Welcome to the Verteil Getting Started guide. This guide is designed to get you up and running with Verteil API's as quickly as
 possible.
 
+<details><summary>Does not work</summary>
+[hi](https://hello.ca)
+</details>
+
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
 
 ## Quick links
 
@@ -22,19 +32,4 @@ possible.
    href="/getting-started/fundamentals/authentication" /%}
 
 {% /grid %}
-'
-
-{% 
-   <details><summary>Does not work</summary>
-[hi](https://hello.ca)
-</details>
-
-
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
-</details>
-
-}
 
