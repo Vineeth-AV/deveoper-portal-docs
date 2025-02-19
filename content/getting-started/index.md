@@ -22,9 +22,10 @@ possible.
    href="/getting-started/fundamentals/authentication" /%}
 
 {% /grid %}
+'
 
-
-<details><summary>Does not work</summary>
+{% card
+   <details><summary>Does not work</summary>
 [hi](https://hello.ca)
 </details>
 
@@ -34,3 +35,6 @@ possible.
 [hi](https://hello.ca)
 
 </details>
+
+{% /grid %}
+
