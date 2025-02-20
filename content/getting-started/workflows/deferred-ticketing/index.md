@@ -8,6 +8,6 @@ Shop for Flight (AirShopping) →Price offers(OfferPrice)→ Book (OrderCreate) 
 children = "This is the expandable content. You can put any markdown content inside here." %}
 {% /Expandable %}
 
-{% Expandable title="Example" %}Some content{% /Expandable %}
+{% ExpandableTitle="Example" %}Some content{% /Expandable %}
 
 
