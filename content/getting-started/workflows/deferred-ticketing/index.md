@@ -4,7 +4,6 @@ title: Deferred Booking
 
 Shop for Flight (AirShopping) →Price offers(OfferPrice)→ Book (OrderCreate) → Retrieve (OrderRetrieve) → Payment (OrderChange)
 
-<details>
-  <summary>Click to expand</summary>
-  This is the hidden content that will be revealed when clicked.
-</details>
+{% Expandable title="Click to expand" %}
+This is the expandable content. You can put any markdown content inside here.
+{% /Expandable %}
