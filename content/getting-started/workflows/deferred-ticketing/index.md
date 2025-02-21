@@ -4,11 +4,11 @@ title: Deferred Booking
 
 Shop for Flight (AirShopping) →Price offers(OfferPrice)→ Book (OrderCreate) → Retrieve (OrderRetrieve) → Payment (OrderChange)
 
-{% expandable
+{% Expandable
    title="Rate Limiting"
 description = "This is the expandable content. You can put any markdown content inside here." %}
-{% /expandable %}
+{% /Expandable %}
 
-{% expandable="Example" %}Some content{% /expandable %}
+{% Expandable="Example" %}Some content{% /Expandable %}
 
 
