@@ -4,8 +4,5 @@ title: Deferred Booking
 
 Shop for Flight (AirShopping) →Price offers(OfferPrice)→ Book (OrderCreate) → Retrieve (OrderRetrieve) → Payment (OrderChange)
 
-{% Expandable
-   expandableTitle="Rate Limiting"
-expandableData = "This is the expandable content. You can put any markdown content inside here." %}
-{% /Expandable %}
+{% expandable title="Rate Limiting" description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" href="/getting-started/fundamentals/rate-limiting" /%} {% card title="Authentication" description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" }
 
